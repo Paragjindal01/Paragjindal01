@@ -91,14 +91,6 @@ Developed a full-stack application for storing and retrieving educational diagra
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/Paragjindal01/Paragjindal01/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 - LinkedIn: [Parag Jindal](https://www.linkedin.com/in/parag-jindal-604b41320/)
