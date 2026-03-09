@@ -11,9 +11,17 @@
   <a href="mailto:paragjindal023@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/ParagJindal01">
+  <a href="https://github.com/Paragjindal01">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
   </a>
+</p>
+
+---
+
+## 🖥️ Cyber Banner
+
+<p align="center">
+  <img src="YOUR_BANNER_IMAGE_LINK_HERE" width="100%" />
 </p>
 
 ---
@@ -26,10 +34,6 @@
 - 🐧 Strong foundation in **Linux, Networking, Python, AWS, and backend systems**
 - 🔐 Currently building hands-on projects in **Cybersecurity Home Lab** and **Linux Server Hardening**
 - 💼 Open to **SOC Analyst, Cybersecurity Analyst, Security Operations, and related entry-level roles**
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212744275-2c84b0d4-09e5-47f0-b5d0-3ffdbd9876db.gif" width="500" />
-</p>
 
 ---
 
@@ -93,6 +97,14 @@ Developed a full-stack application for storing and retrieving educational diagra
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Paragjindal01&theme=tokyo-night" alt="Contribution Graph" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/Paragjindal01/Paragjindal01/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
