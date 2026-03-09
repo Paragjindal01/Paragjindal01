@@ -15,15 +15,6 @@
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
   </a>
 </p>
-
----
-
-## 🖥️ Cyber Banner
-
-<p align="center">
-  <img src="YOUR_BANNER_IMAGE_LINK_HERE" width="100%" />
-</p>
-
 ---
 
 ## 🛡️ About Me
