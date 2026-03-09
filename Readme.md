@@ -89,14 +89,6 @@ Developed a full-stack application for storing and retrieving educational diagra
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Paragjindal01&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
