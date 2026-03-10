@@ -83,14 +83,6 @@ Developed a full-stack application for storing and retrieving educational diagra
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Paragjindal01&theme=tokyo-night" alt="Contribution Graph" />
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 - LinkedIn: [Parag Jindal](https://www.linkedin.com/in/parag-jindal-604b41320/)
