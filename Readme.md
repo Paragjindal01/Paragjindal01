@@ -1,96 +1,145 @@
 <h1 align="center">Hi, I'm Parag Jindal 👋</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Aspiring+Cybersecurity+Analyst;BCIS+Student+at+Okanagan+College;Linux+%7C+Networking+%7C+Python+%7C+AWS;Building+Hands-On+Security+Projects" />
-</p>
+<h3 align="center">AI Engineering • Full-Stack Development • Backend Systems</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/parag-jindal-604b41320/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
   <a href="mailto:paragjindal023@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/parag-jindal-604b41320/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Paragjindal01">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
-## 🛡️ About Me
-
-- 🎓 Bachelor of Computer Information Systems student at **Okanagan College**
-- 📍 Based in **Kelowna, BC, Canada**
-- 🎯 Interested in **Cybersecurity, Security Operations, Linux Systems, and Cloud**
-- 🐧 Strong foundation in **Linux, Networking, Python, AWS, and backend systems**
-- 🔐 Currently building hands-on projects in **Cybersecurity Home Lab** and **Linux Server Hardening**
-- 💼 Open to **SOC Analyst, Cybersecurity Analyst, Security Operations, and related entry-level roles**
 
 ---
 
-## ⚙️ Skills & Technologies
+## 👨‍💻 About Me
 
-### Cybersecurity & Systems
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SSH-000000?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/UFW-Firewall-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Fail2Ban-Security-orange?style=for-the-badge" />
-</p>
+I am a **Bachelor of Computer Information Systems graduate from Okanagan College** based in **Kelowna, BC, Canada**.
 
-### Programming & Development
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-</p>
+I am focused on building practical software projects in **AI Engineering, full-stack development, backend systems, and SaaS applications**. I enjoy creating applications that combine clean user interfaces, reliable backend APIs, databases, authentication, and AI-powered features.
 
-### Cloud, Databases & Tools
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-</p>
+- 🤖 Interested in **AI Engineering, Machine Learning, Backend Development, and SaaS Products**
+- 🛠️ Hands-on experience with **Python, JavaScript, TypeScript, React, Node.js, FastAPI, SQL, Docker, and AWS**
+- 🚀 Currently building AI-powered applications with real-world features like authentication, dashboards, API integration, and content generation
+- 🎯 Open to **AI Engineer, Junior Developer, Backend Developer, Full-Stack Developer, and Technical Support roles**
+
+---
+
+## 🧰 Skills & Technologies
+
+### AI & Machine Learning
+`Python` `Machine Learning` `XGBoost` `Data Processing` `Model Inference` `OpenAI API` `Prompt Engineering` `AI Content Generation`
+
+### Backend Development
+`Node.js` `Express.js` `FastAPI` `REST APIs` `GraphQL` `JWT Authentication` `API Integration`
+
+### Frontend Development
+`React` `TypeScript` `JavaScript` `Next.js` `HTML` `CSS` `Tailwind CSS`
+
+### Databases & Cloud
+`PostgreSQL` `MySQL` `MongoDB` `Prisma` `AWS S3` `AWS RDS` `Docker`
+
+### Tools & Systems
+`Git` `GitHub` `VS Code` `Postman` `Jira` `Tableau` `Linux`
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔐 Cybersecurity Home Lab
-Built a virtual cybersecurity lab with Kali Linux and Ubuntu Server virtual machines to simulate attack and defense scenarios. Used Nmap for vulnerability scanning, Wireshark for packet analysis, and reviewed authentication logs for suspicious activity.
+### 🤖 AI Marketing Platform
 
-### 🛡️ Linux Server Hardening Project
-Secured an Ubuntu Server environment using SSH key-based authentication, disabled password logins, configured UFW firewall rules, and implemented Fail2Ban to reduce brute-force attack risk.
+A SaaS-style AI marketing platform for campaign and content generation.
 
-### 📈 Machine Learning Model Backend – Stock Market Prediction
-Built a backend service to deploy and serve an XGBoost model using FastAPI with endpoints for data ingestion, preprocessing, and model inference.
+- Built with **React, Node.js, Express, JWT authentication, and OpenAI API**
+- Created features for **login, dashboard, campaign management, and AI content generation**
+- Integrated backend APIs with the frontend using a structured authentication flow
+- Designed a modern SaaS-style interface with a polished user experience
+- Focused on building a practical AI-powered product, not just a simple demo
 
-### 📚 Diagram Data Warehouse
-Developed a full-stack application for storing and retrieving educational diagrams using React, Express.js, MongoDB Atlas, PostgreSQL, AWS S3, and CloudFront.
+**Tech Stack:** `React` `Node.js` `Express` `JWT` `OpenAI API` `JavaScript` `CSS`
 
 ---
 
-## 🤝 Connect With Me
+### 📊 Machine Learning Model Backend
 
-- LinkedIn: [Parag Jindal](https://www.linkedin.com/in/parag-jindal-604b41320/)
-- Email: **paragjindal023@gmail.com**
-- Location: **Kelowna, BC, Canada**
+Backend service for stock market prediction using machine learning.
+
+- Built using **FastAPI, Python, and XGBoost**
+- Created API endpoints for real-time prediction and model inference
+- Worked with historical market data, preprocessing, and backend data flow
+- Focused on scalable backend structure and clean API design
+
+**Tech Stack:** `Python` `FastAPI` `XGBoost` `Machine Learning` `REST API`
+
+---
+
+### 🗺️ Kelowna Crime Map
+
+A full-stack public crime reporting and admin moderation platform.
+
+- Built with **Next.js, TypeScript, PostgreSQL, Prisma, Leaflet, and Zod**
+- Users can submit reports with location, type, date, and description
+- Admin panel supports approving or rejecting reports before public display
+- Added filtering by crime type and date range
+- Used database validation and API routes for structured data handling
+
+**Tech Stack:** `Next.js` `TypeScript` `PostgreSQL` `Prisma` `Leaflet` `Zod`
+
+---
+
+### 👥 Peer Evaluation Platform
+
+A classroom-based peer review platform for teachers and students.
+
+- Built with **React, TypeScript, Fastify, and MySQL**
+- Teachers can create classes, assignments, and rubrics
+- Students can complete structured peer evaluations
+- Focused on usability, database design, and role-based workflows
+
+**Tech Stack:** `React` `TypeScript` `Fastify` `MySQL`
+
+---
+
+## 📚 Currently Learning
+
+- AI application development
+- OpenAI API integration
+- Prompt engineering
+- Backend system design
+- Cloud deployment
+- Scalable SaaS architecture
+- Production-ready full-stack development
+
+---
+
+## 📌 Career Focus
+
+I am actively building my portfolio around:
+
+- AI-powered web applications
+- Full-stack SaaS products
+- Backend APIs and databases
+- Machine learning integrations
+- Real-world software projects
+
+I am open to opportunities in:
+
+`AI Engineering` `Full-Stack Development` `Backend Development` `Junior Software Development` `Technical Support`
+
+---
+
+## 📫 Connect With Me
+
+📧 **Email:** [paragjindal023@gmail.com](mailto:paragjindal023@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/parag-jindal-604b41320](https://www.linkedin.com/in/parag-jindal-604b41320/)  
+💻 **GitHub:** [github.com/Paragjindal01](https://github.com/Paragjindal01)
 
 ---
 
 <p align="center">
-  <b>Thanks for visiting my profile!</b> 🚀
+  <i>Building practical AI-powered applications with clean frontend, strong backend, and real-world product thinking.</i>
 </p>
