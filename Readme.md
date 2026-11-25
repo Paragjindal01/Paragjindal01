@@ -64,6 +64,10 @@ Professional projects are described at a high level; proprietary source code, cu
 
 Additional tools and areas: Ollama, ChromaDB, XGBoost, Slurm, Airflow, Proxmox, Wireshark, WireGuard and REST/GraphQL APIs.
 
+## Independent engineering lab
+
+[**Infrastructure Lab v0.1**](./labs/infra-sim) — a runnable synthetic server and PDU telemetry simulator with rule-based health reports and invariant tests. No live infrastructure or proprietary code is used.
+
 ## Development roadmap
 
 Independent public projects I intend to build:
