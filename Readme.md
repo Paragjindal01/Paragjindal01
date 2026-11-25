@@ -66,6 +66,14 @@ Browser-local document retrieval, traceable citations, and side-by-side indexing
 
 [Demo](https://paragjindal.com/lab/localmind) · [Source](https://github.com/Paragjindal01/paragjindal-portfolio/blob/main/src/lab/apps/LocalMind.jsx) · [Technical case study](https://paragjindal.com/case-studies/localmind)
 
+### ComputeFlow
+
+Compare GPU scheduling policies with the same training and inference workload, then replay queue and resource decisions.
+
+<img src="https://raw.githubusercontent.com/Paragjindal01/paragjindal-portfolio/main/compute-flow/docs/workbench.webp" width="680" alt="ComputeFlow showing a completed GPU scheduling run and its workload timeline" />
+
+[Demo](https://paragjindal.com/compute-flow/) · [Source](https://github.com/Paragjindal01/paragjindal-portfolio/tree/main/compute-flow) · [Technical case study](https://paragjindal.com/case-studies/compute-flow) · [Benchmarks](https://github.com/Paragjindal01/paragjindal-portfolio/blob/main/compute-flow/docs/benchmarks.md)
+
 ## Professional experience
 
 ### AltaAI Inc.
