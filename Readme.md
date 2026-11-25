@@ -64,18 +64,26 @@ Professional projects are described at a high level; proprietary source code, cu
 
 Additional tools and areas: Ollama, ChromaDB, XGBoost, Slurm, Airflow, Proxmox, Wireshark, WireGuard and REST/GraphQL APIs.
 
-## Independent engineering lab
+## Independent infrastructure engineering portfolio
 
-[**Infrastructure Lab v0.1**](./labs/infra-sim) — a runnable synthetic server and PDU telemetry simulator with rule-based health reports and invariant tests. No live infrastructure or proprietary code is used.
+[**Infrastructure Lab v0.1 — runnable prototype**](./labs/infra-sim)
 
-## Development roadmap
+A deterministic, synthetic test environment for server inventory, GPU telemetry, rack power, PDU outlet readings and rule-based operational health reports. The lab is read-only and includes invariant and scenario tests.
 
-Independent public projects I intend to build:
+| Project | Engineering scope | Public development status |
+| --- | --- | --- |
+| RackOps | Interactive 2D/3D rack inventory and environmental visualization | Planned |
+| GPUWatch | GPU utilization, VRAM, temperature, power and alerts | Planned; synthetic metrics available in lab |
+| PowerOps | PDU outlet telemetry, power budgets and simulated control | Planned; synthetic power readings available in lab |
+| InfraPilot AI | AI-assisted infrastructure analysis, inventory automation and incident reports | Planned; rule-based reports available in lab |
+| FabricLab | Network topology, VLAN planning, port mapping and redundancy | Planned |
+| VirtScan | Read-only server, VM and container discovery | Planned |
+| StorageCalc | Replication, usable capacity and failure scenario planning | Planned |
+| LocalMind | Local document retrieval, inference and RAG evaluation | Planned |
 
-- GPU infrastructure observability lab with simulated telemetry.
-- Read-only virtualization inventory collector.
-- Distributed storage capacity and resilience calculator.
-- Local RAG evaluation and benchmarking toolkit.
+These are independent personal development projects, not copies of commercial or employer systems. No real customer data, infrastructure layouts, internal credentials, proprietary source code or live power-control operations are included. Planned capabilities are not represented as delivered.
+
+**Portfolio:** [paragjindal.com](https://paragjindal.com/) · [Website source](https://github.com/Paragjindal01/paragjindal-portfolio)
 
 ## GitHub activity
 
