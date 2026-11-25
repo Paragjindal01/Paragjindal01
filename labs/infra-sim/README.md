@@ -1,41 +1,35 @@
-# Infrastructure Lab — v0.1
+# Infrastructure simulator
 
-An independent, dependency-free synthetic infrastructure simulator for developing observability, inventory, PDU monitoring and automation prototypes. All names, topology and telemetry are fictional. No employer or customer data, code or equipment connections are used.
+A dependency-free engine for exploring a fictional data centre. Version 2 adds a facility and rooms, four racks, 16 servers, switches, metered PDU outlets, virtual machines, containers, and four repeatable operating scenarios.
 
 ## Run locally
 
-Requires Node.js 20 or later. From this directory:
+Use Node.js 22 or later from this directory.
 
 ```sh
-node cli.mjs 0
-node cli.mjs 4
-node --test simulator.test.mjs
-````
+node cli-v2.mjs critical 0
+node cli-v2.mjs recovery 12
+node --test
+```
 
-Step 4 introduces a simulated GPU temperature warning. Every fifth step repeats this scenario. The CLI emits JSON containing an inventory snapshot and a rule-based health report. The engine is deterministic and can be used by other applications through its exported functions.
+`simulator-v2.mjs` exports `createSnapshot({ scenario, step })`, `history(scenario, steps)`, and `analyze(snapshot)`. The fields carry explicit units. Each step advances 15 synthetic minutes. The same input always yields the same snapshot. The original `cli.mjs` and `simulator.mjs` continue to expose the version 1 contract.
 
-## Architecture
+| Scenario | What to look for |
+| --- | --- |
+| Normal | Nominal temperatures and varying workload demand |
+| Warning | Warmer intake, higher humidity, and increased accelerator load |
+| Critical | GPU thermal alerts, an offline storage node, and high power demand |
+| Recovery | Lower thermal and power readings after the incident |
 
 ```mermaid
 flowchart LR
-  S[Deterministic simulator] --> I[Server and rack inventory]
-  S --> P[PDU outlet telemetry]
-  I --> A[Health rules]
-  P --> A
-  A --> R[JSON report]
+  A[Scenario and step] --> B[Deterministic simulator]
+  B --> C[Version 2 inventory and telemetry]
+  C --> D[Health rules]
+  C --> E[React engineering applications]
+  D --> F[Read-only JSON API]
 ```
 
-## Data and safeguards
+The browser version and HTTP contract live in the [engineering lab source](https://github.com/Paragjindal01/paragjindal-portfolio/tree/main/src/lab). [Open the engineering lab](https://paragjindal.com/lab).
 
-- Three fictional racks, six servers, three PDUs and linked outlet readings.
-- Synthetic CPU, GPU, memory, temperature and power metrics.
-- Aggregate power reconciles with individual server loads.
-- Illustrative warning thresholds: 80 C GPU temperature and 80% PDU utilization. Not equipment operating specifications.
-- Read-only rule-based analysis; no LLM, real API, live power switching or remote actions in this version.
-- No runtime dependencies, external services or secrets.
-
-## Next steps
-
-Add a browser dashboard, schema validation, recorded scenario fixtures and an optional read-only AI tool layer. Future PDU control demonstrations must remain simulated and include authorization, confirmation and an audit trail.
-
-Development status: working simulator prototype. Not a production DCIM or monitoring system. License for future standalone repository to be decided by the owner.
+All data is synthetic, including reserved documentation IP addresses and locally administered MAC addresses. Alert thresholds illustrate the scenarios. The simulator makes no network or hardware calls. The browser power exercises use a separate in-memory control adapter.
