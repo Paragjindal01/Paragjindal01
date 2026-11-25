@@ -113,7 +113,7 @@ Supported students, campus programs, recreation operations, and events through f
 - **VirtScan** · Synchronize hosts, VMs and containers, compare inventory snapshots, and export the results. [Demo](https://paragjindal.com/lab/virtscan) · [Case study](https://paragjindal.com/case-studies/virtscan)
 - **StorageCalc** · Compare replication and erasure coding, model a node outage, and quantify expansion headroom. [Demo](https://paragjindal.com/lab/storagecalc) · [Case study](https://paragjindal.com/case-studies/storagecalc)
 
-[Standalone source exports](https://github.com/Paragjindal01/paragjindal-portfolio/releases/tag/standalone-lab-v0.1.0) · [Simulation API](https://paragjindal.com/api/simulation?scenario=critical) · [InfraPilot incident replay](https://paragjindal.com/lab/infrapilot-ai#incident-replay)
+[Standalone source and installation](https://github.com/Paragjindal01/paragjindal-portfolio/tree/main/packages/standalone) · [Simulation API](https://paragjindal.com/api/simulation?scenario=critical) · [InfraPilot incident replay](https://paragjindal.com/lab/infrapilot-ai#incident-replay)
 
 ```mermaid
 flowchart LR
