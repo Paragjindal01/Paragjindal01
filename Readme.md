@@ -1,94 +1,53 @@
 <div align="center">
-  <img src="./assets/engineering-banner.svg" alt="Parag Jindal — AI infrastructure and systems engineering" width="100%" />
-  <h3>AI & Information Systems Specialist · Software Developer</h3>
-  <p>Ottawa, Ontario, Canada</p>
-  <a href="https://www.linkedin.com/in/parag-jindal-604b41320/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0969DA?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:paragjindal023@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/Paragjindal01?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/Repositories-333333?style=flat-square&logo=github&logoColor=white"></a>
+  <img src="./assets/engineering-banner.svg" alt="Parag Jindal, AI and Information Systems Specialist. Conceptual data centre hardware." width="100%" />
+  <p><a href="https://paragjindal.com/">Portfolio</a> · <a href="https://paragjindal.com/lab">Engineering Lab</a> · <a href="https://www.linkedin.com/in/parag-jindal-604b41320/">LinkedIn</a> · <a href="mailto:paragjindal023@gmail.com">Email</a></p>
 </div>
 
-## Engineering at the intersection of software and infrastructure
+## About me
 
-I'm a Bachelor of Computer Information Systems graduate from Okanagan College, currently working as an AI & Information Systems Specialist. I build applications, integrate self-hosted AI systems and support the infrastructure that runs them.
+I’m an **AI & Information Systems Specialist** based in Ottawa, Ontario, Canada, and a Bachelor of Computer Information Systems graduate from Okanagan College. I build AI applications and full-stack software and work with the GPU, networking, virtualization, and storage infrastructure that supports them.
 
-My current professional focus includes GPU infrastructure deployment planning, data center infrastructure management (DCIM), virtualization, network and storage design, and AI-powered automation.
+## Independent engineering lab
 
-## Engineering focus
+Explore eight interactive applications built in a personal monorepo. Operational projects share a deterministic fictional data centre with normal, warning, critical, and recovery scenarios.
 
-| Domain | Areas of work |
-| --- | --- |
-| AI systems | Local LLMs, retrieval-augmented generation, inference APIs, workflow automation |
-| Infrastructure | GPU computing, Proxmox, Linux, Docker, virtual machines |
-| Data center systems | Asset inventory, rack visualization, telemetry and access controls |
-| Networking & storage | VLANs, TCP/IP, Ethernet and InfiniBand design, Ceph storage planning |
-| Software engineering | Full-stack applications, backend APIs, PostgreSQL, authentication |
+| Application | What to try | Source and case study |
+| --- | --- | --- |
+| **InfraPilot AI** | [Query a critical incident and review an operator handoff](https://paragjindal.com/lab/infrapilot-ai?scenario=critical) | [Source](https://github.com/Paragjindal01/paragjindal-portfolio/blob/main/src/lab/apps/InfraPilot.jsx) · [Case study](https://github.com/Paragjindal01/paragjindal-portfolio/blob/main/docs/projects/infrapilot-ai.md) |
+| **RackOps** | [Inspect an interactive 2D floor plan and 3D rack](https://paragjindal.com/lab/rackops) | [Source](https://github.com/Paragjindal01/paragjindal-portfolio/blob/main/src/lab/apps/RackOps.jsx) · [Case study](https://github.com/Paragjindal01/paragjindal-portfolio/blob/main/docs/projects/rackops.md) |
+| **GPUWatch** | [Filter accelerator telemetry and adjust thresholds](https://paragjindal.com/lab/gpuwatch) | [Source](https://github.com/Paragjindal01/paragjindal-portfolio/blob/main/src/lab/apps/GPUWatch.jsx) · [Case study](https://github.com/Paragjindal01/paragjindal-portfolio/blob/main/docs/projects/gpuwatch.md) |
+| **PowerOps** | [Balance PDU phases and confirm a simulated outlet action](https://paragjindal.com/lab/powerops) | [Source](https://github.com/Paragjindal01/paragjindal-portfolio/blob/main/src/lab/apps/PowerOps.jsx) · [Case study](https://github.com/Paragjindal01/paragjindal-portfolio/blob/main/docs/projects/powerops.md) |
+| **FabricLab** | [Design an Ethernet or InfiniBand topology](https://paragjindal.com/lab/fabriclab) | [Source](https://github.com/Paragjindal01/paragjindal-portfolio/blob/main/src/lab/apps/FabricLab.jsx) · [Case study](https://github.com/Paragjindal01/paragjindal-portfolio/blob/main/docs/projects/fabriclab.md) |
+| **VirtScan** | [Synchronize hosts, VMs, and containers and inspect changes](https://paragjindal.com/lab/virtscan) | [Source](https://github.com/Paragjindal01/paragjindal-portfolio/blob/main/src/lab/apps/VirtScan.jsx) · [Case study](https://github.com/Paragjindal01/paragjindal-portfolio/blob/main/docs/projects/virtscan.md) |
+| **StorageCalc** | [Compare replicated and erasure-coded capacity](https://paragjindal.com/lab/storagecalc) | [Source](https://github.com/Paragjindal01/paragjindal-portfolio/blob/main/src/lab/apps/StorageCalc.jsx) · [Case study](https://github.com/Paragjindal01/paragjindal-portfolio/blob/main/docs/projects/storagecalc.md) |
+| **LocalMind** | [Explore cited answers from a fictional document set](https://paragjindal.com/lab/localmind) | [Source](https://github.com/Paragjindal01/paragjindal-portfolio/blob/main/src/lab/apps/LocalMind.jsx) · [Case study](https://github.com/Paragjindal01/paragjindal-portfolio/blob/main/docs/projects/localmind.md) |
 
-## Selected engineering experience
+```mermaid
+flowchart LR
+  Launcher[Engineering lab] --> Control[Operations applications]
+  Simulator[Version 2 simulator] --> Control
+  Simulator --> API[Read-only JSON API]
+  Launcher --> Plan[Network and storage tools]
+  Launcher --> RAG[Local document retrieval]
+```
 
-**Data center infrastructure management — ongoing professional project**  
-Developing an internal platform for infrastructure inventory and visualization, with role-based access, audit logging and read-only virtualization integration. Monitoring and power-management capabilities are being developed and validated.
+[Simulator and CLI](./labs/infra-sim) · [Snapshot API](https://paragjindal.com/api/simulation?scenario=critical) · [Portfolio source](https://github.com/Paragjindal01/paragjindal-portfolio)
 
-**GPU infrastructure — ongoing professional work**  
-Contributing to deployment planning for high-density GPU systems, including network fabrics, management networks, shared storage and operational documentation.
-
-**Self-hosted AI assistant — professional project**  
-Worked on a RAG pipeline using FastAPI, ChromaDB and Ollama, self-hosted PostgreSQL, social workflow integrations and backend security controls.
-
-**Algorithmic trading platform — team capstone**  
-Developed backend prediction-serving and data pipeline components for an XGBoost-based system using FastAPI, PostgreSQL, Docker and HPC tooling.
-
-**Diagram data warehouse — academic collaboration**  
-Developed full-stack features for diagram upload, search and analysis using React, GraphQL, AWS and database services.
-
-Professional projects are described at a high level; proprietary source code, customer information and operational configurations are not published here.
-
-## Public repositories
+## Selected software projects
 
 | Project | Focus |
 | --- | --- |
-| [Kelowna Crime Map](https://github.com/Paragjindal01/kelowna-crime-map) | Full-stack civic reporting and moderation |
-| [Cybersecurity Home Lab](https://github.com/Paragjindal01/cybersecurity-home-lab) | Security and networking practice |
+| [SafeKelowna](https://safekelowna.com/) | Community safety map, reporting, messaging, and moderation |
+| Algorithmic Trading Platform | Team capstone for market data processing and XGBoost prediction serving with FastAPI, PostgreSQL, Docker, and HPC tooling |
+| Diagram Data Warehouse | Academic collaboration using React, GraphQL, and cloud storage for diagram upload, discovery, and analysis |
 | [Financial Analytics iOS App](https://github.com/Paragjindal01/financial-analytic-ios-app) | Mobile application development |
+| [Cybersecurity Home Lab](https://github.com/Paragjindal01/cybersecurity-home-lab) | Networking and security fundamentals |
 | [Computer Networks](https://github.com/Paragjindal01/COSC-417-Computer-Network) | Networking coursework |
-| [Personal Portfolio](https://github.com/Paragjindal01/paragjindal-portfolio) | Web portfolio |
 
-## Technology stack
+## Tools and infrastructure
 
-**Languages & development**
+<img src="https://skillicons.dev/icons?i=linux,docker,python,ts,react,nextjs,fastapi,postgres,aws,github&perline=10" alt="Linux, Docker, Python, TypeScript, React, Next.js, FastAPI, PostgreSQL, AWS, GitHub">
 
-<img src="https://skillicons.dev/icons?i=python,ts,js,java,cpp,react,nextjs,nodejs,fastapi&perline=9" alt="Python, TypeScript, JavaScript, Java, C++, React, Next.js, Node.js, FastAPI">
+GPU infrastructure · Proxmox · Ethernet and InfiniBand · VLAN design · Ceph capacity planning · Observability · Ollama · Retrieval-augmented generation · GitHub Actions
 
-**Infrastructure & data**
-
-<img src="https://skillicons.dev/icons?i=linux,docker,nginx,postgres,mysql,mongodb,aws,git,github&perline=9" alt="Linux, Docker, Nginx, PostgreSQL, MySQL, MongoDB, AWS, Git, GitHub">
-
-Additional tools and areas: Ollama, ChromaDB, XGBoost, Slurm, Airflow, Proxmox, Wireshark, WireGuard and REST/GraphQL APIs.
-
-## Independent infrastructure engineering portfolio
-
-[**Infrastructure Lab v0.1 — runnable prototype**](./labs/infra-sim)
-
-A deterministic, synthetic test environment for server inventory, GPU telemetry, rack power, PDU outlet readings and rule-based operational health reports. The lab is read-only and includes invariant and scenario tests.
-
-| Project | Engineering scope | Public development status |
-| --- | --- | --- |
-| RackOps | Interactive 2D/3D rack inventory and environmental visualization | Planned |
-| GPUWatch | GPU utilization, VRAM, temperature, power and alerts | Planned; synthetic metrics available in lab |
-| PowerOps | PDU outlet telemetry, power budgets and simulated control | Planned; synthetic power readings available in lab |
-| InfraPilot AI | AI-assisted infrastructure analysis, inventory automation and incident reports | Planned; rule-based reports available in lab |
-| FabricLab | Network topology, VLAN planning, port mapping and redundancy | Planned |
-| VirtScan | Read-only server, VM and container discovery | Planned |
-| StorageCalc | Replication, usable capacity and failure scenario planning | Planned |
-| LocalMind | Local document retrieval, inference and RAG evaluation | Planned |
-
-These are independent personal development projects, not copies of commercial or employer systems. No real customer data, infrastructure layouts, internal credentials, proprietary source code or live power-control operations are included. Planned capabilities are not represented as delivered.
-
-**Portfolio:** [paragjindal.com](https://paragjindal.com/) · [Website source](https://github.com/Paragjindal01/paragjindal-portfolio)
-
-## GitHub activity
-
-[View my contribution history and repositories](https://github.com/Paragjindal01?tab=overview).
-
----
-
-<div align="center"><sub>Build practical software. Understand the infrastructure. Engineer for reliability.</sub></div>
+[GitHub contributions](https://github.com/Paragjindal01?tab=overview#contribution-graph) · [Public repositories](https://github.com/Paragjindal01?tab=repositories)
