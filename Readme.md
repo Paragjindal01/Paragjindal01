@@ -24,7 +24,7 @@ Versioned workflow graphs, durable SQLite execution, human approval, signed loca
 
 <img src="https://raw.githubusercontent.com/Paragjindal01/paragjindal-portfolio/main/docs/artwork/relayops-ai.webp" width="340" alt="RelayOps AI conceptual cover artwork" /> <a href="https://paragjindal.com/relayops/"><img src="https://raw.githubusercontent.com/Paragjindal01/paragjindal-portfolio/main/relayops-ai/docs/screenshots/studio.webp" width="340" alt="RelayOps AI studio with the Infrastructure Incident Investigator graph" /></a>
 
-[Demo](https://paragjindal.com/relayops/) · [Source](https://github.com/Paragjindal01/paragjindal-portfolio/tree/main/relayops-ai) · [Technical case study](https://paragjindal.com/case-studies/relayops-ai)
+[Demo](https://paragjindal.com/relayops/) · [Source](https://github.com/Paragjindal01/relayops-ai) · [Technical case study](https://paragjindal.com/case-studies/relayops-ai)
 
 ### InfraPilot AI
 
@@ -32,7 +32,7 @@ Validated operational queries and report exports with captured telemetry, recomm
 
 <img src="https://raw.githubusercontent.com/Paragjindal01/paragjindal-portfolio/main/docs/artwork/infrapilot-ai.webp" width="340" alt="InfraPilot AI conceptual cover artwork" /> <a href="https://paragjindal.com/lab/infrapilot-ai"><img src="https://paragjindal.com/lab-screenshots/infrapilot-ai.webp" width="340" alt="InfraPilot AI running in the engineering lab" /></a>
 
-[Demo](https://paragjindal.com/lab/infrapilot-ai) · [Source](https://github.com/Paragjindal01/paragjindal-portfolio/blob/main/src/lab/apps/InfraPilot.jsx) · [Technical case study](https://paragjindal.com/case-studies/infrapilot-ai)
+[Demo](https://paragjindal.com/lab/infrapilot-ai) · [Source](https://github.com/Paragjindal01/infrapilot-ai) · [Technical case study](https://paragjindal.com/case-studies/infrapilot-ai)
 
 ### RackOps
 
@@ -40,7 +40,7 @@ Validated operational queries and report exports with captured telemetry, recomm
 
 <img src="https://raw.githubusercontent.com/Paragjindal01/paragjindal-portfolio/main/docs/artwork/rackops.webp" width="340" alt="RackOps conceptual cover artwork" /> <a href="https://paragjindal.com/lab/rackops"><img src="https://paragjindal.com/lab-screenshots/rackops.webp" width="340" alt="RackOps running in the engineering lab" /></a>
 
-[Demo](https://paragjindal.com/lab/rackops) · [Source](https://github.com/Paragjindal01/paragjindal-portfolio/blob/main/src/lab/apps/RackOps.jsx) · [Technical case study](https://paragjindal.com/case-studies/rackops)
+[Demo](https://paragjindal.com/lab/rackops) · [Source](https://github.com/Paragjindal01/rackops) · [Technical case study](https://paragjindal.com/case-studies/rackops)
 
 ### GPUWatch
 
@@ -48,7 +48,7 @@ Per-GPU metrics, historical threshold exposure within a replay window, utilizati
 
 <img src="https://raw.githubusercontent.com/Paragjindal01/paragjindal-portfolio/main/docs/artwork/gpuwatch.webp" width="340" alt="GPUWatch conceptual cover artwork" /> <a href="https://paragjindal.com/lab/gpuwatch"><img src="https://paragjindal.com/lab-screenshots/gpuwatch.webp" width="340" alt="GPUWatch running in the engineering lab" /></a>
 
-[Demo](https://paragjindal.com/lab/gpuwatch) · [Source](https://github.com/Paragjindal01/paragjindal-portfolio/blob/main/src/lab/apps/GPUWatch.jsx) · [Technical case study](https://paragjindal.com/case-studies/gpuwatch)
+[Demo](https://paragjindal.com/lab/gpuwatch) · [Source](https://github.com/Paragjindal01/gpuwatch) · [Technical case study](https://paragjindal.com/case-studies/gpuwatch)
 
 ### PowerOps
 
@@ -56,7 +56,7 @@ PDU inventory, outlet mapping, modeled energy, phase balancing, and before/after
 
 <img src="https://raw.githubusercontent.com/Paragjindal01/paragjindal-portfolio/main/docs/artwork/powerops.webp" width="340" alt="PowerOps conceptual cover artwork" /> <a href="https://paragjindal.com/lab/powerops"><img src="https://paragjindal.com/lab-screenshots/powerops.webp" width="340" alt="PowerOps running in the engineering lab" /></a>
 
-[Demo](https://paragjindal.com/lab/powerops) · [Source](https://github.com/Paragjindal01/paragjindal-portfolio/blob/main/src/lab/apps/PowerOps.jsx) · [Technical case study](https://paragjindal.com/case-studies/powerops)
+[Demo](https://paragjindal.com/lab/powerops) · [Source](https://github.com/Paragjindal01/powerops) · [Technical case study](https://paragjindal.com/case-studies/powerops)
 
 ### LocalMind
 
@@ -64,7 +64,7 @@ Browser-local document retrieval, traceable citations, and side-by-side indexing
 
 <img src="https://raw.githubusercontent.com/Paragjindal01/paragjindal-portfolio/main/docs/artwork/localmind.webp" width="340" alt="LocalMind conceptual cover artwork" /> <a href="https://paragjindal.com/lab/localmind"><img src="https://paragjindal.com/lab-screenshots/localmind.webp" width="340" alt="LocalMind running in the engineering lab" /></a>
 
-[Demo](https://paragjindal.com/lab/localmind) · [Source](https://github.com/Paragjindal01/paragjindal-portfolio/blob/main/src/lab/apps/LocalMind.jsx) · [Technical case study](https://paragjindal.com/case-studies/localmind)
+[Demo](https://paragjindal.com/lab/localmind) · [Source](https://github.com/Paragjindal01/localmind) · [Technical case study](https://paragjindal.com/case-studies/localmind)
 
 ### ComputeFlow
 
@@ -72,7 +72,7 @@ Compare GPU scheduling policies with the same training and inference workload, t
 
 <img src="https://raw.githubusercontent.com/Paragjindal01/paragjindal-portfolio/main/compute-flow/docs/workbench.webp" width="680" alt="ComputeFlow showing a completed GPU scheduling run and its workload timeline" />
 
-[Demo](https://paragjindal.com/compute-flow/) · [Source](https://github.com/Paragjindal01/paragjindal-portfolio/tree/main/compute-flow) · [Technical case study](https://paragjindal.com/case-studies/compute-flow) · [Benchmarks](https://github.com/Paragjindal01/paragjindal-portfolio/blob/main/compute-flow/docs/benchmarks.md)
+[Demo](https://paragjindal.com/compute-flow/) · [Source](https://github.com/Paragjindal01/compute-flow) · [Technical case study](https://paragjindal.com/case-studies/compute-flow) · [Benchmarks](https://github.com/Paragjindal01/compute-flow/blob/main/docs/benchmarks.md)
 
 ## Professional experience
 
@@ -117,11 +117,11 @@ Supported students, campus programs, recreation operations, and events through f
 
 ## Engineering laboratory
 
-- **FabricLab** · Build an Ethernet or InfiniBand topology, assign ports and VLANs, and validate redundancy. [Demo](https://paragjindal.com/lab/fabriclab) · [Case study](https://paragjindal.com/case-studies/fabriclab)
-- **VirtScan** · Synchronize hosts, VMs and containers, compare inventory snapshots, and export the results. [Demo](https://paragjindal.com/lab/virtscan) · [Case study](https://paragjindal.com/case-studies/virtscan)
-- **StorageCalc** · Compare replication and erasure coding, model a node outage, and quantify expansion headroom. [Demo](https://paragjindal.com/lab/storagecalc) · [Case study](https://paragjindal.com/case-studies/storagecalc)
+- **FabricLab** · Build an Ethernet or InfiniBand topology, assign ports and VLANs, and validate redundancy. [Demo](https://paragjindal.com/lab/fabriclab) · [Source](https://github.com/Paragjindal01/fabriclab) · [Case study](https://paragjindal.com/case-studies/fabriclab)
+- **VirtScan** · Synchronize hosts, VMs and containers, compare inventory snapshots, and export the results. [Demo](https://paragjindal.com/lab/virtscan) · [Source](https://github.com/Paragjindal01/virtscan) · [Case study](https://paragjindal.com/case-studies/virtscan)
+- **StorageCalc** · Compare replication and erasure coding, model a node outage, and quantify expansion headroom. [Demo](https://paragjindal.com/lab/storagecalc) · [Source](https://github.com/Paragjindal01/storagecalc) · [Case study](https://paragjindal.com/case-studies/storagecalc)
 
-[Standalone source and installation](https://github.com/Paragjindal01/paragjindal-portfolio/tree/main/packages/standalone) · [Simulation API](https://paragjindal.com/api/simulation?scenario=critical) · [InfraPilot incident replay](https://paragjindal.com/lab/infrapilot-ai#incident-replay)
+[Standalone source exports](https://github.com/Paragjindal01/paragjindal-portfolio/tree/main/packages/standalone) · [Simulation source](https://github.com/Paragjindal01/infra-simulation) · [Simulation API](https://paragjindal.com/api/simulation?scenario=critical) · [InfraPilot incident replay](https://paragjindal.com/lab/infrapilot-ai#incident-replay)
 
 ```mermaid
 flowchart LR
@@ -167,8 +167,8 @@ Software Development specialization · Completed April 2026
 
 ## Releases and verification
 
-[![Engineering lab CI](https://github.com/Paragjindal01/paragjindal-portfolio/actions/workflows/verify.yml/badge.svg?branch=main)](https://github.com/Paragjindal01/paragjindal-portfolio/actions/workflows/verify.yml) [![RelayOps AI CI](https://github.com/Paragjindal01/paragjindal-portfolio/actions/workflows/relayops.yml/badge.svg?branch=main)](https://github.com/Paragjindal01/paragjindal-portfolio/actions/workflows/relayops.yml)
+[![Engineering lab CI](https://github.com/Paragjindal01/paragjindal-portfolio/actions/workflows/verify.yml/badge.svg?branch=main)](https://github.com/Paragjindal01/paragjindal-portfolio/actions/workflows/verify.yml) [![RelayOps AI CI](https://github.com/Paragjindal01/relayops-ai/actions/workflows/verify.yml/badge.svg?branch=main)](https://github.com/Paragjindal01/relayops-ai/actions/workflows/verify.yml)
 
-[Engineering releases](https://github.com/Paragjindal01/paragjindal-portfolio/releases) · [RelayOps measured runs](https://github.com/Paragjindal01/paragjindal-portfolio/blob/main/relayops-ai/docs/benchmark.md) · [Actual GitHub contributions](https://github.com/Paragjindal01?tab=overview#contribution-graph)
+[Engineering releases](https://github.com/Paragjindal01/paragjindal-portfolio/releases) · [RelayOps measured runs](https://github.com/Paragjindal01/relayops-ai/blob/main/docs/benchmark.md) · [Actual GitHub contributions](https://github.com/Paragjindal01?tab=overview#contribution-graph)
 
 The public infrastructure demos use fictional data and simulated controls. The work history describes business responsibilities at a public, technical level.
