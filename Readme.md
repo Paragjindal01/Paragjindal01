@@ -7,6 +7,16 @@
 
 I’m an **AI & Information Systems Specialist** based in Ottawa, Ontario, Canada, and a Bachelor of Computer Information Systems graduate from Okanagan College. I build AI applications and full-stack software and work with the GPU, networking, virtualization, and storage infrastructure that supports them.
 
+## RelayOps AI
+
+A visual studio for validating, running, and reviewing workflows. The public demo runs offline in the browser. The local SQLite service persists workflow versions, execution events, and approvals across restarts.
+
+[Interactive demo](https://paragjindal.com/relayops/) · [Source and architecture](https://github.com/Paragjindal01/paragjindal-portfolio/tree/main/relayops-ai) · [Measured workflow runs](https://github.com/Paragjindal01/paragjindal-portfolio/blob/main/relayops-ai/docs/benchmark.md)
+
+<img width="820" alt="RelayOps workflow studio with the infrastructure incident investigator graph" src="https://raw.githubusercontent.com/Paragjindal01/paragjindal-portfolio/main/relayops-ai/docs/screenshots/studio.webp" />
+
+Try the GitHub review, sample-source research pipeline, CSV/JSON analysis, or synthetic incident investigator. The incident workflow pauses for an explicit approval before it records a simulated mitigation.
+
 ## Independent engineering lab
 
 Explore eight interactive applications built in a personal monorepo. Operational projects share a deterministic fictional data centre with normal, warning, critical, and recovery scenarios.
@@ -31,7 +41,7 @@ flowchart LR
   Launcher --> RAG[Local document retrieval]
 ```
 
-[Simulator and CLI](./labs/infra-sim) · [Snapshot API](https://paragjindal.com/api/simulation?scenario=critical) · [Portfolio source](https://github.com/Paragjindal01/paragjindal-portfolio)
+[InfraPilot incident replay](https://paragjindal.com/lab/infrapilot-ai#incident-replay) · [Simulator and CLI](./labs/infra-sim) · [Snapshot API](https://paragjindal.com/api/simulation?scenario=critical) · [Portfolio source](https://github.com/Paragjindal01/paragjindal-portfolio)
 
 ## Selected software projects
 
