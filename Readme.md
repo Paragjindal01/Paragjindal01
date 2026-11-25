@@ -1,131 +1,82 @@
-<h1 align="center">Hi, I'm Parag Jindal 👋</h1>
+<div align="center">
+  <img src="./assets/engineering-banner.svg" alt="Parag Jindal — AI infrastructure and systems engineering" width="100%" />
+  <h3>AI & Information Systems Specialist · Software Developer</h3>
+  <p>Ottawa, Ontario, Canada</p>
+  <a href="https://www.linkedin.com/in/parag-jindal-604b41320/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0969DA?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:paragjindal023@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/Paragjindal01?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/Repositories-333333?style=flat-square&logo=github&logoColor=white"></a>
+</div>
 
-<h3 align="center">AI Automation Engineer • Full-Stack Developer • IT Support & Security</h3>
+## Engineering at the intersection of software and infrastructure
 
-<p align="center">
-  <a href="mailto:paragjindal023@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/parag-jindal-604b41320/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Paragjindal01">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+I'm a Bachelor of Computer Information Systems graduate from Okanagan College, currently working as an AI & Information Systems Specialist. I build applications, integrate self-hosted AI systems and support the infrastructure that runs them.
 
----
+My current professional focus includes GPU infrastructure deployment planning, data center infrastructure management (DCIM), virtualization, network and storage design, and AI-powered automation.
 
-## 👨‍💻 About Me
+## Engineering focus
 
-Bachelor of Computer Information Systems graduate (Software Development specialization) from Okanagan College, based in Kelowna, BC, Canada.
+| Domain | Areas of work |
+| --- | --- |
+| AI systems | Local LLMs, retrieval-augmented generation, inference APIs, workflow automation |
+| Infrastructure | GPU computing, Proxmox, Linux, Docker, virtual machines |
+| Data center systems | Asset inventory, rack visualization, telemetry and access controls |
+| Networking & storage | VLANs, TCP/IP, Ethernet and InfiniBand design, Ceph storage planning |
+| Software engineering | Full-stack applications, backend APIs, PostgreSQL, authentication |
 
-I build AI-powered systems and full-stack applications, with a parallel background in IT support and network troubleshooting. Recent work includes a self-hosted RAG pipeline running on local/GPU infrastructure, a distributed ML trading platform trained on HPC infrastructure, and a cloud-native data platform built with industry partners.
+## Selected engineering experience
 
-- 🤖 **AI Engineering** — RAG pipelines, vector databases, local LLM deployment, prompt engineering
-- 🛠️ **Full-Stack & Backend** — React, Node.js, FastAPI, PostgreSQL, REST/GraphQL APIs
-- 🔐 **IT Support & Security** — networking, troubleshooting, Wireshark, Nmap, Kali Linux
-- 🎯 **Open to**: Software Engineer, AI/Automation Engineer, Security Operations Center (SOC) Analyst, IT Security Analyst, and IT Support roles
+**Data center infrastructure management — ongoing professional project**  
+Developing an internal platform for infrastructure inventory and visualization, with role-based access, audit logging and read-only virtualization integration. Monitoring and power-management capabilities are being developed and validated.
 
----
+**GPU infrastructure — ongoing professional work**  
+Contributing to deployment planning for high-density GPU systems, including network fabrics, management networks, shared storage and operational documentation.
 
-## 🧰 Skills & Technologies
+**Self-hosted AI assistant — professional project**  
+Worked on a RAG pipeline using FastAPI, ChromaDB and Ollama, self-hosted PostgreSQL, social workflow integrations and backend security controls.
 
-**Languages:** `Python` `JavaScript` `TypeScript` `SQL` `Java` `C++`
+**Algorithmic trading platform — team capstone**  
+Developed backend prediction-serving and data pipeline components for an XGBoost-based system using FastAPI, PostgreSQL, Docker and HPC tooling.
 
-**Backend & APIs:** `FastAPI` `Node.js` `Express.js` `REST APIs` `GraphQL` `OAuth2/JWT`
+**Diagram data warehouse — academic collaboration**  
+Developed full-stack features for diagram upload, search and analysis using React, GraphQL, AWS and database services.
 
-**Frontend:** `React` `Next.js` `Three.js` `HTML` `CSS` `Tailwind CSS`
+Professional projects are described at a high level; proprietary source code, customer information and operational configurations are not published here.
 
-**AI / Machine Learning:** `OpenAI API` `Retrieval-Augmented Generation (RAG)` `ChromaDB` `Ollama` `XGBoost` `Prompt Engineering`
+## Public repositories
 
-**Databases & Infrastructure:** `PostgreSQL` `MySQL` `MongoDB` `Prisma` `Docker` `Self-Hosted Infrastructure` `AWS (S3, CloudFront, RDS)`
+| Project | Focus |
+| --- | --- |
+| [Kelowna Crime Map](https://github.com/Paragjindal01/kelowna-crime-map) | Full-stack civic reporting and moderation |
+| [Cybersecurity Home Lab](https://github.com/Paragjindal01/cybersecurity-home-lab) | Security and networking practice |
+| [Financial Analytics iOS App](https://github.com/Paragjindal01/financial-analytic-ios-app) | Mobile application development |
+| [Computer Networks](https://github.com/Paragjindal01/COSC-417-Computer-Network) | Networking coursework |
+| [Personal Portfolio](https://github.com/Paragjindal01/paragjindal-portfolio) | Web portfolio |
 
-**Security & Networking:** `Wireshark` `Nmap` `Kali Linux` `WSL2` `TCP/IP` `DNS` `SSH`
+## Technology stack
 
-**Tools:** `Git/GitHub` `Postman` `JIRA` `VS Code`
+**Languages & development**
 
----
+<img src="https://skillicons.dev/icons?i=python,ts,js,java,cpp,react,nextjs,nodejs,fastapi&perline=9" alt="Python, TypeScript, JavaScript, Java, C++, React, Next.js, Node.js, FastAPI">
 
-## 🚀 Featured Projects
+**Infrastructure & data**
 
-### 🤖 AltaAI Internal AI Assistant (RAG)
+<img src="https://skillicons.dev/icons?i=linux,docker,nginx,postgres,mysql,mongodb,aws,git,github&perline=9" alt="Linux, Docker, Nginx, PostgreSQL, MySQL, MongoDB, AWS, Git, GitHub">
 
-A full-stack internal AI platform combining content generation, LinkedIn automation, and a self-hosted Retrieval-Augmented Generation system.
+Additional tools and areas: Ollama, ChromaDB, XGBoost, Slurm, Airflow, Proxmox, Wireshark, WireGuard and REST/GraphQL APIs.
 
-- Built a self-hosted RAG pipeline (**FastAPI, ChromaDB, Ollama**) for internal knowledge search, removing third-party LLM dependency
-- Migrated the production database to **self-hosted PostgreSQL**, eliminating third-party hosting latency
-- Built a **LinkedIn OAuth2 integration** with automated comment monitoring (Node.js, node-cron) and AI-drafted replies
-- Diagnosed a GPU/Docker/CUDA infrastructure issue and hardened backend services with rate limiting, API authentication, and input validation
+## Development roadmap
 
-**Tech Stack:** `React` `Node.js` `FastAPI` `PostgreSQL` `ChromaDB` `Ollama` `OpenAI API` `LinkedIn API`
+Independent public projects I intend to build:
 
----
+- GPU infrastructure observability lab with simulated telemetry.
+- Read-only virtualization inventory collector.
+- Distributed storage capacity and resilience calculator.
+- Local RAG evaluation and benchmarking toolkit.
 
-### 📈 Algorithmic Trading Platform — Backend & ML Serving
+## GitHub activity
 
-A distributed algorithmic trading system (team capstone) with live market data ingestion, ML training on HPC infrastructure, and prediction serving.
-
-- Built a **FastAPI backend** serving predictions from an **XGBoost ensemble** (26 models, one per 15-minute trading window)
-- Trained on HPC infrastructure (**Slurm-managed H100 GPU**) with **Apache Airflow** orchestrating the data/training pipeline
-- Developed data ingestion, preprocessing, and inference-serving logic within a multi-engineer team using **Docker, PostgreSQL, and Git workflows**
-
-**Tech Stack:** `Python` `FastAPI` `XGBoost` `Docker` `PostgreSQL` `Airflow` `Slurm/HPC`
-
----
-
-### 🗄️ Diagram Data Warehouse
-
-A full-stack platform for uploading, searching, and analyzing educational diagrams, built with mentors from **Paris East University** and **Orange.com**.
-
-- Built a responsive frontend (**React, Tailwind CSS**) with REST and **GraphQL** APIs
-- Implemented secure image storage via **AWS S3** and delivery through **CloudFront**
-- Used **PostgreSQL on Amazon RDS** for metadata and **MongoDB Atlas Search** for fast filtering
-- Added CSV export and feature extraction for research/ML use cases
-
-**Tech Stack:** `React` `Node.js` `GraphQL` `AWS S3/CloudFront` `PostgreSQL (RDS)` `MongoDB Atlas`
+[View my contribution history and repositories](https://github.com/Paragjindal01?tab=overview).
 
 ---
 
-### 🗺️ Kelowna Crime Map
-
-A full-stack civic reporting platform with public submission, filtering, and admin moderation.
-
-- Built with **Next.js, TypeScript, PostgreSQL, Prisma, Leaflet, and Zod**
-- Report submission with location, type, date, and description
-- Admin panel for approving/rejecting reports before public display
-
-**Tech Stack:** `Next.js` `TypeScript` `PostgreSQL` `Prisma` `Leaflet`
-
----
-
-## 📚 Currently Learning
-
-- Security operations & SOC analyst tooling
-- Advanced RAG architectures and local LLM deployment
-- Cloud infrastructure & deployment at scale
-- Production-ready full-stack system design
-
----
-
-## 📌 Career Focus
-
-Actively building experience across:
-
-`AI Engineering` &nbsp;•&nbsp; `Full-Stack Development` &nbsp;•&nbsp; `Backend Development` &nbsp;•&nbsp; `IT Support` &nbsp;•&nbsp; `Security Operations (SOC) / IT Security`
-
-Open to **Software Engineer**, **Junior Software Engineer**, **AI/Automation Engineer**, **Security Operations Center Analyst**, and **IT Security Analyst** roles.
-
----
-
-## 📫 Connect With Me
-
-📧 **Email:** [paragjindal023@gmail.com](mailto:paragjindal023@gmail.com)
-🔗 **LinkedIn:** [linkedin.com/in/parag-jindal-604b41320](https://www.linkedin.com/in/parag-jindal-604b41320/)
-💻 **GitHub:** [github.com/Paragjindal01](https://github.com/Paragjindal01)
-
----
-
-<p align="center">
-  <i>Building practical AI-powered systems and full-stack applications, with the troubleshooting instincts of a support engineer.</i>
-</p>
+<div align="center"><sub>Build practical software. Understand the infrastructure. Engineer for reliability.</sub></div>
