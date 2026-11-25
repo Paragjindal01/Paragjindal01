@@ -1,63 +1,166 @@
-<div align="center">
-  <img src="./assets/engineering-banner.svg" alt="Parag Jindal, AI and Information Systems Specialist. Conceptual data centre hardware." width="100%" />
-  <p><a href="https://paragjindal.com/">Portfolio</a> · <a href="https://paragjindal.com/lab">Engineering Lab</a> · <a href="https://www.linkedin.com/in/parag-jindal-604b41320/">LinkedIn</a> · <a href="mailto:paragjindal023@gmail.com">Email</a></p>
-</div>
+<!-- Generated from the portfolio professional data and project catalog. -->
 
-## About me
+<img width="1200" src="./assets/engineering-profile.webp" alt="Parag Jindal, AI & Information Systems Specialist. Conceptual engineering artwork." />
 
-I’m an **AI & Information Systems Specialist** based in Ottawa, Ontario, Canada, and a Bachelor of Computer Information Systems graduate from Okanagan College. I build AI applications and full-stack software and work with the GPU, networking, virtualization, and storage infrastructure that supports them.
+# Parag Jindal
 
-## RelayOps AI
+**AI & Information Systems Specialist**
 
-A visual studio for validating, running, and reviewing workflows. The public demo runs offline in the browser. The local SQLite service persists workflow versions, execution events, and approvals across restarts.
+AI Product Engineering · Intelligent Automation · Full-Stack Development · GPU Infrastructure
 
-[Interactive demo](https://paragjindal.com/relayops/) · [Source and architecture](https://github.com/Paragjindal01/paragjindal-portfolio/tree/main/relayops-ai) · [Measured workflow runs](https://github.com/Paragjindal01/paragjindal-portfolio/blob/main/relayops-ai/docs/benchmark.md)
+Building Intelligence. Engineering What Powers It.
 
-<img width="820" alt="RelayOps workflow studio with the infrastructure incident investigator graph" src="https://raw.githubusercontent.com/Paragjindal01/paragjindal-portfolio/main/relayops-ai/docs/screenshots/studio.webp" />
+Ottawa, Ontario, Canada
 
-Try the GitHub review, sample-source research pipeline, CSV/JSON analysis, or synthetic incident investigator. The incident workflow pauses for an explicit approval before it records a simulated mitigation.
+[Website](https://paragjindal.com/) · [Engineering lab](https://paragjindal.com/lab) · [LinkedIn](https://www.linkedin.com/in/parag-jindal-604b41320/) · [Email](mailto:paragjindal023@gmail.com)
 
-## Independent engineering lab
+## Flagship products
 
-Explore eight interactive applications built in a personal monorepo. Operational projects share a deterministic fictional data centre with normal, warning, critical, and recovery scenarios.
+Independent software with runnable demos and published engineering evidence. The cover artwork is conceptual. Product screenshots show the actual applications.
 
-| Application | What to try | Source and case study |
-| --- | --- | --- |
-| **InfraPilot AI** | [Query a critical incident and review an operator handoff](https://paragjindal.com/lab/infrapilot-ai?scenario=critical) | [Source](https://github.com/Paragjindal01/paragjindal-portfolio/blob/main/src/lab/apps/InfraPilot.jsx) · [Case study](https://github.com/Paragjindal01/paragjindal-portfolio/blob/main/docs/projects/infrapilot-ai.md) |
-| **RackOps** | [Inspect an interactive 2D floor plan and 3D rack](https://paragjindal.com/lab/rackops) | [Source](https://github.com/Paragjindal01/paragjindal-portfolio/blob/main/src/lab/apps/RackOps.jsx) · [Case study](https://github.com/Paragjindal01/paragjindal-portfolio/blob/main/docs/projects/rackops.md) |
-| **GPUWatch** | [Filter accelerator telemetry and adjust thresholds](https://paragjindal.com/lab/gpuwatch) | [Source](https://github.com/Paragjindal01/paragjindal-portfolio/blob/main/src/lab/apps/GPUWatch.jsx) · [Case study](https://github.com/Paragjindal01/paragjindal-portfolio/blob/main/docs/projects/gpuwatch.md) |
-| **PowerOps** | [Balance PDU phases and confirm a simulated outlet action](https://paragjindal.com/lab/powerops) | [Source](https://github.com/Paragjindal01/paragjindal-portfolio/blob/main/src/lab/apps/PowerOps.jsx) · [Case study](https://github.com/Paragjindal01/paragjindal-portfolio/blob/main/docs/projects/powerops.md) |
-| **FabricLab** | [Design an Ethernet or InfiniBand topology](https://paragjindal.com/lab/fabriclab) | [Source](https://github.com/Paragjindal01/paragjindal-portfolio/blob/main/src/lab/apps/FabricLab.jsx) · [Case study](https://github.com/Paragjindal01/paragjindal-portfolio/blob/main/docs/projects/fabriclab.md) |
-| **VirtScan** | [Synchronize hosts, VMs, and containers and inspect changes](https://paragjindal.com/lab/virtscan) | [Source](https://github.com/Paragjindal01/paragjindal-portfolio/blob/main/src/lab/apps/VirtScan.jsx) · [Case study](https://github.com/Paragjindal01/paragjindal-portfolio/blob/main/docs/projects/virtscan.md) |
-| **StorageCalc** | [Compare replicated and erasure-coded capacity](https://paragjindal.com/lab/storagecalc) | [Source](https://github.com/Paragjindal01/paragjindal-portfolio/blob/main/src/lab/apps/StorageCalc.jsx) · [Case study](https://github.com/Paragjindal01/paragjindal-portfolio/blob/main/docs/projects/storagecalc.md) |
-| **LocalMind** | [Explore cited answers from a fictional document set](https://paragjindal.com/lab/localmind) | [Source](https://github.com/Paragjindal01/paragjindal-portfolio/blob/main/src/lab/apps/LocalMind.jsx) · [Case study](https://github.com/Paragjindal01/paragjindal-portfolio/blob/main/docs/projects/localmind.md) |
+### RelayOps AI
+
+Versioned workflow graphs, durable SQLite execution, human approval, signed local webhooks, traces, and recorded evaluations.
+
+<img src="https://raw.githubusercontent.com/Paragjindal01/paragjindal-portfolio/main/docs/artwork/relayops-ai.webp" width="340" alt="RelayOps AI conceptual cover artwork" /> <a href="https://paragjindal.com/relayops/"><img src="https://raw.githubusercontent.com/Paragjindal01/paragjindal-portfolio/main/relayops-ai/docs/screenshots/studio.webp" width="340" alt="RelayOps AI studio with the Infrastructure Incident Investigator graph" /></a>
+
+[Demo](https://paragjindal.com/relayops/) · [Source](https://github.com/Paragjindal01/paragjindal-portfolio/tree/main/relayops-ai) · [Technical case study](https://paragjindal.com/case-studies/relayops-ai)
+
+### InfraPilot AI
+
+Validated operational queries and report exports with captured telemetry, recommendations, approval decisions, and linked PowerOps actions.
+
+<img src="https://raw.githubusercontent.com/Paragjindal01/paragjindal-portfolio/main/docs/artwork/infrapilot-ai.webp" width="340" alt="InfraPilot AI conceptual cover artwork" /> <a href="https://paragjindal.com/lab/infrapilot-ai"><img src="https://paragjindal.com/lab-screenshots/infrapilot-ai.webp" width="340" alt="InfraPilot AI running in the engineering lab" /></a>
+
+[Demo](https://paragjindal.com/lab/infrapilot-ai) · [Source](https://github.com/Paragjindal01/paragjindal-portfolio/blob/main/src/lab/apps/InfraPilot.jsx) · [Technical case study](https://paragjindal.com/case-studies/infrapilot-ai)
+
+### RackOps
+
+2D facility navigation, front and rear rack views, free rack units, and PDU-to-workload dependencies.
+
+<img src="https://raw.githubusercontent.com/Paragjindal01/paragjindal-portfolio/main/docs/artwork/rackops.webp" width="340" alt="RackOps conceptual cover artwork" /> <a href="https://paragjindal.com/lab/rackops"><img src="https://paragjindal.com/lab-screenshots/rackops.webp" width="340" alt="RackOps running in the engineering lab" /></a>
+
+[Demo](https://paragjindal.com/lab/rackops) · [Source](https://github.com/Paragjindal01/paragjindal-portfolio/blob/main/src/lab/apps/RackOps.jsx) · [Technical case study](https://paragjindal.com/case-studies/rackops)
+
+### GPUWatch
+
+Per-GPU metrics, historical threshold exposure within a replay window, utilization charts, and report exports.
+
+<img src="https://raw.githubusercontent.com/Paragjindal01/paragjindal-portfolio/main/docs/artwork/gpuwatch.webp" width="340" alt="GPUWatch conceptual cover artwork" /> <a href="https://paragjindal.com/lab/gpuwatch"><img src="https://paragjindal.com/lab-screenshots/gpuwatch.webp" width="340" alt="GPUWatch running in the engineering lab" /></a>
+
+[Demo](https://paragjindal.com/lab/gpuwatch) · [Source](https://github.com/Paragjindal01/paragjindal-portfolio/blob/main/src/lab/apps/GPUWatch.jsx) · [Technical case study](https://paragjindal.com/case-studies/gpuwatch)
+
+### PowerOps
+
+PDU inventory, outlet mapping, modeled energy, phase balancing, and before/after audit exports.
+
+<img src="https://raw.githubusercontent.com/Paragjindal01/paragjindal-portfolio/main/docs/artwork/powerops.webp" width="340" alt="PowerOps conceptual cover artwork" /> <a href="https://paragjindal.com/lab/powerops"><img src="https://paragjindal.com/lab-screenshots/powerops.webp" width="340" alt="PowerOps running in the engineering lab" /></a>
+
+[Demo](https://paragjindal.com/lab/powerops) · [Source](https://github.com/Paragjindal01/paragjindal-portfolio/blob/main/src/lab/apps/PowerOps.jsx) · [Technical case study](https://paragjindal.com/case-studies/powerops)
+
+### LocalMind
+
+Browser-local document retrieval, traceable citations, and side-by-side indexing evaluation.
+
+<img src="https://raw.githubusercontent.com/Paragjindal01/paragjindal-portfolio/main/docs/artwork/localmind.webp" width="340" alt="LocalMind conceptual cover artwork" /> <a href="https://paragjindal.com/lab/localmind"><img src="https://paragjindal.com/lab-screenshots/localmind.webp" width="340" alt="LocalMind running in the engineering lab" /></a>
+
+[Demo](https://paragjindal.com/lab/localmind) · [Source](https://github.com/Paragjindal01/paragjindal-portfolio/blob/main/src/lab/apps/LocalMind.jsx) · [Technical case study](https://paragjindal.com/case-studies/localmind)
+
+## Professional experience
+
+### AltaAI Inc.
+
+#### AI & Information Systems Specialist
+
+September 2026 – Present · Permanent full-time · On-site · Ottawa, Ontario, Canada
+
+Develop AI-assisted infrastructure operations and internal software. Contribute to GPU and high-performance computing deployment planning and validation.
+
+- Build agent and API workflows to collect, normalize, and analyze infrastructure data. Develop internal integrations, operational reporting, and business process automation.
+- Develop DCIM capabilities for asset hierarchy, interactive 2D and 3D rack inspection, equipment discovery, VM and container inventory, resource and environmental telemetry, and PDU monitoring. Design role-based access and audit logging for sensitive workflows.
+- Plan GPU architecture, management and control servers, equipment integration, and validation. Evaluate management networks, VLANs, port mapping, and redundant Ethernet and InfiniBand designs.
+- Plan shared Ceph storage with replication, capacity headroom, and failure domains. Use read-only Proxmox integrations, React and Next.js, Python and Node.js, REST and GraphQL, PostgreSQL, Docker, documentation, and automated testing.
+
+#### AI Product Engineer
+
+May 2026 – September 2026 · Permanent part-time · Remote
+
+Developed internal AI products and productivity tools across retrieval, backend services, and business workflow automation.
+
+- Developed self-hosted retrieval and semantic search workflows with FastAPI, Ollama, and ChromaDB. Worked on PostgreSQL migration and self-hosted database infrastructure.
+- Built LinkedIn workflow integrations for scheduled comment monitoring, AI-assisted response drafts, and content generation. Used Node.js and OAuth2 for integration work.
+- Implemented API authentication, input validation, and rate limiting. Troubleshot GPU, CUDA, and Docker environments for local AI development.
+
+### Best Buy / Geek Squad
+
+**Field Service Agent**
+
+April 2026 – September 2026 · Permanent full-time · On-site · Kelowna, British Columbia, Canada
+
+Diagnosed and resolved hardware, software, Wi-Fi, and peripheral issues in field service. Installed and configured devices and communicated fixes to customers.
+
+### Okanagan College
+
+**Student Employee — Peer Support and Athletics & Recreation**
+
+January 2025 – April 2026 · On-site · Kelowna, British Columbia, Canada
+
+Supported students, campus programs, recreation operations, and events through front-line service and team collaboration.
+
+## Engineering laboratory
+
+- **FabricLab** · Build an Ethernet or InfiniBand topology, assign ports and VLANs, and validate redundancy. [Demo](https://paragjindal.com/lab/fabriclab) · [Case study](https://paragjindal.com/case-studies/fabriclab)
+- **VirtScan** · Synchronize hosts, VMs and containers, compare inventory snapshots, and export the results. [Demo](https://paragjindal.com/lab/virtscan) · [Case study](https://paragjindal.com/case-studies/virtscan)
+- **StorageCalc** · Compare replication and erasure coding, model a node outage, and quantify expansion headroom. [Demo](https://paragjindal.com/lab/storagecalc) · [Case study](https://paragjindal.com/case-studies/storagecalc)
+
+[Standalone source exports](https://github.com/Paragjindal01/paragjindal-portfolio/releases/tag/standalone-lab-v0.1.0) · [Simulation API](https://paragjindal.com/api/simulation?scenario=critical) · [InfraPilot incident replay](https://paragjindal.com/lab/infrapilot-ai#incident-replay)
 
 ```mermaid
 flowchart LR
-  Launcher[Engineering lab] --> Control[Operations applications]
-  Simulator[Version 2 simulator] --> Control
-  Simulator --> API[Read-only JSON API]
-  Launcher --> Plan[Network and storage tools]
-  Launcher --> RAG[Local document retrieval]
+  Simulator[Versioned synthetic facility and telemetry] --> RackOps
+  Simulator --> GPUWatch
+  Simulator --> PowerOps
+  Simulator --> VirtScan
+  Simulator --> InfraPilot[InfraPilot AI]
+  InfraPilot -->|Reviewed handoff| PowerOps
+  InfraPilot --> Replay[Incident timeline and replay]
+  PowerOps --> Replay
+  Input[Independent planning and knowledge inputs] --> FabricLab
+  Input --> StorageCalc
+  Input --> LocalMind
+  RelayOps[RelayOps AI] --> Services[Browser demo or local SQLite worker]
+  Services --> Trace[Workflow traces and evaluation]
 ```
 
-[InfraPilot incident replay](https://paragjindal.com/lab/infrapilot-ai#incident-replay) · [Simulator and CLI](./labs/infra-sim) · [Snapshot API](https://paragjindal.com/api/simulation?scenario=critical) · [Portfolio source](https://github.com/Paragjindal01/paragjindal-portfolio)
+## Selected software
 
-## Selected software projects
+- **[SafeKelowna](https://safekelowna.com/)** · Community safety map, reporting, messaging, and moderation.
+- **Algorithmic Trading Platform** · Team capstone for market data processing and XGBoost prediction serving.
+- **Diagram Data Warehouse** · Academic collaboration for diagram upload, search, and analysis.
 
-| Project | Focus |
-| --- | --- |
-| [SafeKelowna](https://safekelowna.com/) | Community safety map, reporting, messaging, and moderation |
-| Algorithmic Trading Platform | Team capstone for market data processing and XGBoost prediction serving with FastAPI, PostgreSQL, Docker, and HPC tooling |
-| Diagram Data Warehouse | Academic collaboration using React, GraphQL, and cloud storage for diagram upload, discovery, and analysis |
-| [Financial Analytics iOS App](https://github.com/Paragjindal01/financial-analytic-ios-app) | Mobile application development |
-| [Cybersecurity Home Lab](https://github.com/Paragjindal01/cybersecurity-home-lab) | Networking and security fundamentals |
-| [Computer Networks](https://github.com/Paragjindal01/COSC-417-Computer-Network) | Networking coursework |
+Earlier work includes the [Financial Analytics iOS App](https://github.com/Paragjindal01/financial-analytic-ios-app), [Cybersecurity Home Lab](https://github.com/Paragjindal01/cybersecurity-home-lab), and [Computer Networks coursework](https://github.com/Paragjindal01/COSC-417-Computer-Network).
 
-## Tools and infrastructure
+## Technology
 
-<img src="https://skillicons.dev/icons?i=linux,docker,python,ts,react,nextjs,fastapi,postgres,aws,github&perline=10" alt="Linux, Docker, Python, TypeScript, React, Next.js, FastAPI, PostgreSQL, AWS, GitHub">
+- **AI and Machine Learning** · Ollama, Retrieval-augmented generation, ChromaDB, XGBoost
+- **Agentic AI and Automation** · Structured tool calling, Workflow orchestration, Evaluation, Approval gates
+- **Backend Engineering** · Python, FastAPI, Node.js, REST, GraphQL
+- **Frontend Engineering** · React, Next.js, TypeScript, Vite
+- **Data and Storage** · PostgreSQL, SQLite, Ceph, Distributed storage
+- **GPU Infrastructure** · CUDA, NVML, Slurm, GPU deployment planning
+- **Networking and Virtualization** · Proxmox, Ethernet, InfiniBand, VLANs
+- **DevOps and Security** · Linux, Docker, GitHub Actions, Vercel, OAuth2, Audit logging
 
-GPU infrastructure · Proxmox · Ethernet and InfiniBand · VLAN design · Ceph capacity planning · Observability · Ollama · Retrieval-augmented generation · GitHub Actions
+## Education
 
-[GitHub contributions](https://github.com/Paragjindal01?tab=overview#contribution-graph) · [Public repositories](https://github.com/Paragjindal01?tab=repositories)
+**Bachelor of Computer Information Systems** · Okanagan College
+
+Software Development specialization · Completed April 2026
+
+## Releases and verification
+
+[![Engineering lab CI](https://github.com/Paragjindal01/paragjindal-portfolio/actions/workflows/verify.yml/badge.svg?branch=main)](https://github.com/Paragjindal01/paragjindal-portfolio/actions/workflows/verify.yml) [![RelayOps AI CI](https://github.com/Paragjindal01/paragjindal-portfolio/actions/workflows/relayops.yml/badge.svg?branch=main)](https://github.com/Paragjindal01/paragjindal-portfolio/actions/workflows/relayops.yml)
+
+[Engineering releases](https://github.com/Paragjindal01/paragjindal-portfolio/releases) · [RelayOps measured runs](https://github.com/Paragjindal01/paragjindal-portfolio/blob/main/relayops-ai/docs/benchmark.md) · [Actual GitHub contributions](https://github.com/Paragjindal01?tab=overview#contribution-graph)
+
+The public infrastructure demos use fictional data and simulated controls. The work history describes business responsibilities at a public, technical level.
